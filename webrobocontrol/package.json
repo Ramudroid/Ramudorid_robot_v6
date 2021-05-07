@@ -23,7 +23,7 @@
     "restify-plugins": "^1.6.0",
     "request": "^2.67.0",
     "socket.io": "^0.9.19",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {},
   "scripts": {
